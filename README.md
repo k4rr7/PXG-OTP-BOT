@@ -1,10 +1,10 @@
-```markdown
 # **Bot-Hunt-e-Pesca-PXG**
 
 ![Logo do Projeto](https://github.com/k4rr7/Bot-Hunt-e-Pesca-PXG/blob/main/logo.png)
-https://mega.nz/file/rEIARSbR#Yd8FG5uW-uzkIIPdESRw7bJYbUk2qvON7R-BxWiptqU
 
 **Repositório criado para automações feitas em Python utilizando a biblioteca PyAutoGUI, com o objetivo de automatizar tarefas dentro dos jogos **Pokexgames - PXG (Pokémon)** e **OTPokemon**. Este projeto visa proporcionar uma experiência mais fluida e eficiente para os jogadores.**
+
+[Baixe o bot aqui](https://mega.nz/file/rEIARSbR#Yd8FG5uW-uzkIIPdESRw7bJYbUk2qvON7R-BxWiptqU)
 
 ---
 
@@ -47,48 +47,26 @@ Clone este repositório para o seu ambiente local:
 
 ```bash
 git clone https://github.com/k4rr7/Bot-Hunt-e-Pesca-PXG.git
-```
 
-### **3. Instale as dependências necessárias**
+
+3. Instale as dependências necessárias
 Após clonar o repositório, navegue até o diretório do projeto e instale as dependências:
 
-```bash
 cd Bot-Hunt-e-Pesca-PXG
 pip install -r requirements.txt
-```
 
-### **4. Execute o bot**
+4. Execute o bot
+Para o bot de caçada (Hunt):
 
-- Para o bot de **caçada (Hunt)**:
-
-```bash
 python bot_hunt.py
-```
 
-- Para o bot de **pesca**:
+_________________________________
+Contribua com o Projeto
+Estamos sempre trabalhando para melhorar e atualizar o Bot-Hunt-e-Pesca-PXG. Se você gostou do projeto ou tem sugestões para melhorias, deixe uma estrela ⭐ no repositório. Isso nos motiva a continuar o desenvolvimento e trazer novas funcionalidades!
 
-```bash
-python bot_pesca.py
-```
+Se você deseja contribuir, tem melhorias a sugerir ou encontrou algum bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
----
-
-## **Contribua com o Projeto**
-
-Estamos sempre trabalhando para melhorar e atualizar o **Bot-Hunt-e-Pesca-PXG**. Se você gostou do projeto ou tem sugestões para melhorias, **deixe uma estrela ⭐** no repositório. Isso nos motiva a continuar o desenvolvimento e trazer novas funcionalidades!
-
-- Se você deseja contribuir, tem melhorias a sugerir ou encontrou algum bug, sinta-se à vontade para **abrir uma issue** ou enviar um **pull request**.
-
----
-
-## **Licença**
-
-Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-## **Contato**
-
-- **Autor**: Karr7
-- **GitHub**: [https://github.com/k4rr7](https://github.com/k4rr7)
-```
+Autor: Karr7
+GitHub: https://github.com/k4rr7
