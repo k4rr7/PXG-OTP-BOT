@@ -39,15 +39,26 @@ O **Bot de Pesca** automatiza todo o processo de pesca no jogo, desde a escolha 
 ### **0. Inicie o Executável**
 Inicie o **executável 32 ou 64 bits** e seja feliz. Se o executável não abrir em seu sistema, use o guia abaixo para utilizar o BOT com o uso do Python!
 
-### **Se o executável não for compatível com seu computador, use por favor os INSTALL.MD para instalar as dependências e usar o bot atraves dos scripts Python. Este recurso possui todas as funcionalidades, então não se preocupe!**
+### **Caso o Executável Não Seja Compatível com Seu Sistema**
+Se o executável não for compatível com seu computador ou se você preferir usar o script Python, você pode instalar as dependências e rodar o bot diretamente no seu ambiente de desenvolvimento. 
 
-Contribua com o Projeto
-Estamos sempre trabalhando para melhorar e atualizar o Bot-Hunt-e-Pesca-PXG. Se você gostou do projeto ou tem sugestões para melhorias, deixe uma estrela ⭐ no repositório. Isso nos motiva a continuar o desenvolvimento e trazer novas funcionalidades!
+Para isso, consulte o arquivo [INSTALL.md](https://github.com/k4rr7/PXG-OTP-BOT/blob/main/INSTALL.md), onde explicamos em detalhes como configurar o bot para ser executado via Python. Este método possui todas as funcionalidades do bot, então você não perderá nenhuma funcionalidade se optar por essa abordagem.
 
-Se você deseja contribuir, tem melhorias a sugerir ou encontrou algum bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+---
 
-Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+## **Contribua com o Projeto**
 
-Autor: Karr7
-GitHub: https://github.com/k4rr7
+Estamos sempre trabalhando para melhorar e atualizar o **Bot-Hunt-e-Pesca-PXG**. Se você gostou do projeto ou tem sugestões para melhorias, **deixe uma estrela ⭐** no repositório. Isso nos motiva a continuar o desenvolvimento e trazer novas funcionalidades!
+
+Se você deseja contribuir, tem melhorias a sugerir ou encontrou algum bug, sinta-se à vontade para **abrir uma issue** ou enviar um **pull request**.
+
+---
+
+## **Licença**
+Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+## **Contato**
+- **Autor**: Karr7
+- **GitHub**: [https://github.com/k4rr7](https://github.com/k4rr7)
