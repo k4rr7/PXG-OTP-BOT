@@ -48,7 +48,7 @@ Para isso, consulte o arquivo [INSTALL.md](https://github.com/k4rr7/PXG-OTP-BOT/
 
 ## **Contribua com o Projeto**
 
-Estamos sempre trabalhando para melhorar e atualizar o **Bot-Hunt-e-Pesca-PXG**. Se você gostou do projeto ou tem sugestões para melhorias, **deixe uma estrela ⭐** no repositório. Isso nos motiva a continuar o desenvolvimento e trazer novas funcionalidades!
+Estamos sempre trabalhando para melhorar e atualizar o nosso **Perfect Bot 2025**. Se você gostou do projeto ou tem sugestões para melhorias, **deixe uma estrela ⭐** no repositório. Isso nos motiva a continuar o desenvolvimento e trazer novas funcionalidades!
 
 Se você deseja contribuir, tem melhorias a sugerir ou encontrou algum bug, sinta-se à vontade para **abrir uma issue** ou enviar um **pull request**.
 
