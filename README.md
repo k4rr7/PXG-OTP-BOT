@@ -1,6 +1,8 @@
+```markdown
 # **Bot-Hunt-e-Pesca-PXG**
 
-![Logo do Projeto](https://github.com/k4rr7/Bot-Hunt-e-Pesca-PXG/blob/main/imagens/logo.png)
+![Logo do Projeto](https://github.com/k4rr7/Bot-Hunt-e-Pesca-PXG/blob/main/logo.png)
+https://mega.nz/file/rEIARSbR#Yd8FG5uW-uzkIIPdESRw7bJYbUk2qvON7R-BxWiptqU
 
 **Repositório criado para automações feitas em Python utilizando a biblioteca PyAutoGUI, com o objetivo de automatizar tarefas dentro dos jogos **Pokexgames - PXG (Pokémon)** e **OTPokemon**. Este projeto visa proporcionar uma experiência mais fluida e eficiente para os jogadores.**
 
@@ -34,6 +36,9 @@ O **Bot de Pesca** automatiza todo o processo de pesca no jogo, desde a escolha 
 
 ## **Como Usar**
 
+### **0. Inicie o Executável**
+Inicie o **executável 32 ou 64 bits** e seja feliz. Se o executável não abrir em seu sistema, use o guia abaixo para utilizar o BOT com o uso do Python!
+
 ### **1. Instale o Python**
 Certifique-se de que o **Python** está instalado em seu computador. Se não estiver, [baixe e instale o Python aqui](https://www.python.org/downloads/).
 
@@ -42,28 +47,48 @@ Clone este repositório para o seu ambiente local:
 
 ```bash
 git clone https://github.com/k4rr7/Bot-Hunt-e-Pesca-PXG.git
+```
 
-3. Instale as dependências necessárias
+### **3. Instale as dependências necessárias**
 Após clonar o repositório, navegue até o diretório do projeto e instale as dependências:
 
+```bash
 cd Bot-Hunt-e-Pesca-PXG
 pip install -r requirements.txt
+```
 
-4. Execute o bot
-Para o bot de caçada (Hunt):
+### **4. Execute o bot**
 
+- Para o bot de **caçada (Hunt)**:
+
+```bash
 python bot_hunt.py
+```
 
-Para o bot de pesca:
+- Para o bot de **pesca**:
 
+```bash
 python bot_pesca.py
+```
 
-Contribua com o Projeto
-Estamos sempre trabalhando para melhorar e atualizar o Bot-Hunt-e-Pesca-PXG. Se você gostou do projeto ou tem sugestões para melhorias, deixe uma estrela ⭐ no repositório. Isso nos motiva a continuar o desenvolvimento e trazer novas funcionalidades!
+---
 
-Se você deseja contribuir, tem melhorias a sugerir ou encontrou algum bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+## **Contribua com o Projeto**
 
-Autor: K4rr7
-GitHub: https://github.com/k4rr7
+Estamos sempre trabalhando para melhorar e atualizar o **Bot-Hunt-e-Pesca-PXG**. Se você gostou do projeto ou tem sugestões para melhorias, **deixe uma estrela ⭐** no repositório. Isso nos motiva a continuar o desenvolvimento e trazer novas funcionalidades!
+
+- Se você deseja contribuir, tem melhorias a sugerir ou encontrou algum bug, sinta-se à vontade para **abrir uma issue** ou enviar um **pull request**.
+
+---
+
+## **Licença**
+
+Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+## **Contato**
+
+- **Autor**: Karr7
+- **GitHub**: [https://github.com/k4rr7](https://github.com/k4rr7)
+```
