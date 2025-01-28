@@ -1,6 +1,6 @@
-# **Bot-Hunt-e-Pesca-PXG**
+# **PERFECT BOT Disponível para PXG e OTP**
 
-![Logo do Projeto](https://github.com/k4rr7/Bot-Hunt-e-Pesca-PXG/blob/main/logo.png)
+![Logo do Projeto](https://github.com/k4rr7/Bot-Hunt-e-Pesca-PXG/raw/main/logo.png)
 
 **Repositório criado para automações feitas em Python utilizando a biblioteca PyAutoGUI, com o objetivo de automatizar tarefas dentro dos jogos **Pokexgames - PXG (Pokémon)** e **OTPokemon**. Este projeto visa proporcionar uma experiência mais fluida e eficiente para os jogadores.**
 
