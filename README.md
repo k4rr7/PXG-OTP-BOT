@@ -1,6 +1,6 @@
 # **PERFECT BOT Disponível para PXG e OTP**
 
-![Logo do Projeto](https://github.com/k4rr7/Bot-Hunt-e-Pesca-PXG/blob/main/logo.png)
+![Logo do Projeto](https://github.com/k4rr7/PXG-OTP-BOT/raw/main/logo.png)
 
 **Repositório criado para automações feitas em Python utilizando a biblioteca PyAutoGUI, com o objetivo de automatizar tarefas dentro dos jogos **Pokexgames - PXG (Pokémon)** e **OTPokemon**. Este projeto visa proporcionar uma experiência mais fluida e eficiente para os jogadores.**
 
@@ -39,32 +39,13 @@ O **Bot de Pesca** automatiza todo o processo de pesca no jogo, desde a escolha 
 ### **0. Inicie o Executável**
 Inicie o **executável 32 ou 64 bits** e seja feliz. Se o executável não abrir em seu sistema, use o guia abaixo para utilizar o BOT com o uso do Python!
 
-### **1. Instale o Python**
-Certifique-se de que o **Python** está instalado em seu computador. Se não estiver, [baixe e instale o Python aqui](https://www.python.org/downloads/).
+### **Se o executável não for compatível com seu computador, use por favor os INSTALL.MD para instalar as dependências e usar o bot atraves dos scripts Python. Este recurso possui todas as funcionalidades, então não se preocupe!**
 
-### **2. Clone ou baixe o repositório**
-Clone este repositório para o seu ambiente local:
-
-```bash
-git clone https://github.com/k4rr7/Bot-Hunt-e-Pesca-PXG.git
-
-
-3. Instale as dependências necessárias
-Após clonar o repositório, navegue até o diretório do projeto e instale as dependências:
-
-cd Bot-Hunt-e-Pesca-PXG
-pip install -r requirements.txt
-
-4. Execute o bot
-Para o bot de caçada (Hunt):
-
-python bot_hunt.py
-
-_________________________________
 Contribua com o Projeto
 Estamos sempre trabalhando para melhorar e atualizar o Bot-Hunt-e-Pesca-PXG. Se você gostou do projeto ou tem sugestões para melhorias, deixe uma estrela ⭐ no repositório. Isso nos motiva a continuar o desenvolvimento e trazer novas funcionalidades!
 
 Se você deseja contribuir, tem melhorias a sugerir ou encontrou algum bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
